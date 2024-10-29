@@ -6,6 +6,12 @@
       "__resolveType": "site/sections/ItWorks.tsx",
       "name": "<p>TOSHINOTOQUE</p>",
       "count": 1
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "TOSHIBR"
+      }
     }
   ],
   "__resolveType": "website/pages/Page.tsx"
