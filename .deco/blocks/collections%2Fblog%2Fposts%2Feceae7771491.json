@@ -2,17 +2,6 @@
   "name": "collections/blog/posts/eceae7771491",
   "__resolveType": "blog/loaders/Blogpost.ts",
   "post": {
-    "authors": [],
-    "categories": [],
-    "extraProps": [],
-    "title": "TOSHI.BR",
-    "excerpt": "VENI VIDI VICI",
-    "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/toshibr/91affa4c-5231-41ad-a2b2-1dffde4391ef/OIP.jpg",
-    "slug": "VENI VIDI VICI",
-    "content": "<p>Tema: O Impacto Moderno Nos Jovens </p><p>Veni (vim ou nasci) Vidi (Vi ou aprendi ou vivi) Vici (Venci ou conquistei ou Vencedor); nós seres humanos vivemos em um mundo dual, onde existe lados, do mesmo modo que o título descreve Veni Vidi Vici, pode ser como: nem vim, muito menos vivi ou pior morri. Oque eu quero dizer com este início é que já que vivemos em um mundo dual, posso lhe afirmar que o impacto moderno é tão dual quanto o contemporâneo e antiga idade média. (ou das trevas dependendo da perspectiva). </p><p></p><p>Meu objetivo nesse manuscrito é apresentar pontos positivos e negativos desta nova modernidade. Primeiramente quero afirmar que sempre ocorrem erros sistêmicos em tudo que o homem cria. Como a falta de informação é prejudicial o excesso dela também é. Por isso digo que a moderação pode ser saudável. Em minha sincera opinião, a modernidade veio para acelerar as coisas com a velocidade, sabemos que o computador foi criado em 1946 com fins militares, utilizando a matemática e com a tentativa de replicar o celebro (ou mente) humana, com raciocínio logico. Com a evolução agora temos muito mais do que simples cálculos com a hipervelocidade, mas um IA (Inteligência Artificial) que consegue hoje em dia simular e compreender o que são sentimentos. </p><p></p><p>Já que hoje podemos dizer que essa inteligência (Algoritmos), consegue compreender os seres humanos com uma velocidade enorme que consegue prever nossos movimentos antes mesmo de realizarmos. Se não nos atentarmos a esta \"consciência” ela pode tomar as rédeas de nós seres humanos e nos conduzir para onde bem desejar. (exemplo: filme Wally ou Exterminador do Futuro). </p><p></p><p>Quero concluir dizendo que se não fosse pela evolução e a modernidade eu talvez não teria acesso a essas informações e não saberia coisas como: mesmerismo, ondas magnéticas, vibração, teoria das cores e energia de Nicolas Tesla. (obs. quero deixar claro que grandes conteúdos que agora estão na internet são duplicado de fontes e livros de cientistas, filósofos e teólogos de épocas passadas que muitas vezes sofreram perseguições por causa de suas descobertas). Quero finalizar este manuscrito com uma frase que nem sei de onde veio: “O homem teme aquilo que não conhece”. </p><p></p><p>Att: G&amp;T [Agradeço minha tia Elizete por me inspirar a escrever este conteúdo]. </p><p></p><p></p><p>Soul Cratera</p>",
-    "seo": {
-      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/toshibr/51f2f3b7-7d3b-4db8-832f-0037e4567338/ufo.png"
-    },
-    "date": "2023-03-31"
+    "__resolveType": "collections/blog/posts/eceae7771491"
   }
 }
