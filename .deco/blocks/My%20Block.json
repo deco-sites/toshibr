@@ -1,0 +1,7 @@
+{
+  "__resolveType": "website/sections/Rendering/Deferred.tsx",
+  "sections": [],
+  "behavior": {
+    "type": "intersection"
+  }
+}
