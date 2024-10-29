@@ -6,5 +6,5 @@ interface Props {
 }
 
 export default function Section({ FAMILÍA = "Capy" }: Props) {
-  return <div>SALVE {name}</div>
+  return <div>SALVE QVG {name}</div>
 }

@@ -3,6 +3,13 @@
   "path": "/",
   "sections": [
     {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/NewSection.tsx",
+        "name": "TEXT"
+      }
+    },
+    {
       "__resolveType": "site/sections/ItWorks.tsx",
       "name": "<p>TOSHINOTOQUE</p>",
       "count": 1
